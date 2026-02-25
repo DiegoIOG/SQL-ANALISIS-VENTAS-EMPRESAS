@@ -1,0 +1,36 @@
+BULK INSERT clientes
+FROM 'C:\SQLData\clientes.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    TABLOCK
+);
+
+BULK INSERT empresa
+FROM 'D:\PROYECTOS-DATAENGINNER\ETL SQL\empresas.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n'
+);
+
+BULK INSERT productos
+FROM 'D:\PROYECTOS-DATAENGINNER\ETL SQL\productos.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n'
+);
+
+BULK INSERT ventas
+FROM 'D:\PROYECTOS-DATAENGINNER\ETL SQL\ventas.csv'
+WITH (
+    FORMAT = 'CSV',
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n'
+);

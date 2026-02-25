@@ -1,0 +1,501 @@
+empresa_id,nombre_empresa,industria,pais
+1,Novak and Sons,Finanzas,España
+2,Armstrong-Carter,Salud,México
+3,Barton Inc,Manufactura,Argentina
+4,"Fuller, Bennett and Williams",Salud,Colombia
+5,Frank Group,Salud,Colombia
+6,Black-Nelson,Retail,México
+7,Ballard-Vazquez,Manufactura,España
+8,Johnson Group,Manufactura,España
+9,Horton Ltd,Manufactura,Argentina
+10,Giles Inc,Salud,México
+11,Potter Inc,Finanzas,Colombia
+12,"Avila, Chambers and Roach",Manufactura,España
+13,"Nelson, Morton and Krueger",Salud,México
+14,"Schmidt, Blankenship and Powers",Retail,España
+15,"Rice, Mason and Warner",Finanzas,España
+16,Mcpherson-Martin,Retail,Colombia
+17,"Shannon, Potter and Johnson",Finanzas,USA
+18,Williams Inc,Salud,Argentina
+19,Freeman-Rios,Tecnología,Argentina
+20,Wang Ltd,Finanzas,Colombia
+21,James PLC,Retail,España
+22,"Hudson, Dickson and Savage",Salud,México
+23,Carter-Hill,Finanzas,España
+24,Thomas PLC,Tecnología,Colombia
+25,"Francis, Jones and Vance",Tecnología,Argentina
+26,Garcia-Sanders,Manufactura,España
+27,Jordan-Thompson,Manufactura,Argentina
+28,Mason PLC,Retail,México
+29,Carter PLC,Finanzas,Argentina
+30,Brennan Group,Finanzas,Argentina
+31,Rosales Inc,Manufactura,USA
+32,"Mccoy, Fisher and Brown",Finanzas,USA
+33,Schmidt and Sons,Finanzas,USA
+34,Adams-Gibson,Tecnología,Argentina
+35,Hall PLC,Manufactura,Colombia
+36,Bush and Sons,Salud,Argentina
+37,Garcia-Phillips,Manufactura,Colombia
+38,"Baldwin, Gordon and Anderson",Salud,Colombia
+39,Hubbard-Gonzalez,Tecnología,USA
+40,Short Inc,Retail,España
+41,Hurley LLC,Finanzas,México
+42,"Mills, Salas and Phillips",Tecnología,USA
+43,Castaneda-Hardy,Finanzas,USA
+44,"Waller, Vazquez and Cherry",Retail,España
+45,Bradford Ltd,Retail,México
+46,Johnson PLC,Tecnología,Argentina
+47,"Arias, Williams and Deleon",Retail,Argentina
+48,Jones-Perry,Salud,USA
+49,"Collins, Allen and Wong",Retail,México
+50,Bond LLC,Finanzas,USA
+51,Shepard Inc,Finanzas,Colombia
+52,Bowen-Roman,Finanzas,USA
+53,Marsh LLC,Finanzas,USA
+54,"Johnson, Forbes and Baker",Salud,Argentina
+55,Knapp-Gilbert,Manufactura,Argentina
+56,Torres and Sons,Tecnología,Argentina
+57,Bailey-Bell,Finanzas,Colombia
+58,"Caldwell, Powell and Mitchell",Retail,Argentina
+59,"Hayes, Mays and Decker",Finanzas,México
+60,"Beck, Torres and Cervantes",Retail,España
+61,Johnson-Green,Retail,México
+62,"Lynn, Alvarado and Mcclure",Finanzas,México
+63,"Lambert, Bass and Rogers",Salud,Argentina
+64,"Johnson, Douglas and Kelly",Retail,España
+65,Wright-Casey,Retail,España
+66,West-Werner,Finanzas,España
+67,Robinson-Rodgers,Retail,Colombia
+68,"Hoover, Carr and Duncan",Retail,Argentina
+69,"Allen, Cohen and Miller",Finanzas,España
+70,Hamilton-Mcbride,Finanzas,Colombia
+71,Leach-Mendez,Tecnología,USA
+72,Beasley-Arnold,Salud,USA
+73,"Simmons, Hernandez and Lloyd",Salud,Colombia
+74,Holmes-Jones,Retail,Colombia
+75,"Johnson, Bell and Chapman",Salud,Argentina
+76,Oneill-Martin,Retail,Argentina
+77,Williams-Adkins,Tecnología,USA
+78,Walsh-Cruz,Finanzas,España
+79,Hernandez LLC,Finanzas,USA
+80,Clayton-Quinn,Finanzas,España
+81,"Waller, Taylor and Leonard",Salud,España
+82,Mills-Johnson,Tecnología,Argentina
+83,"Brown, Hicks and Contreras",Salud,México
+84,"Harmon, Cruz and Morris",Salud,México
+85,Brennan-Mclaughlin,Tecnología,Colombia
+86,Ray LLC,Tecnología,Argentina
+87,Beck-Scott,Tecnología,España
+88,Martinez-Benjamin,Tecnología,México
+89,Sweeney Ltd,Finanzas,España
+90,Johnston-Hamilton,Manufactura,México
+91,"Smith, Jones and Fowler",Manufactura,México
+92,Bailey and Sons,Tecnología,México
+93,Smith Ltd,Manufactura,Argentina
+94,"Mason, Gilbert and Moody",Manufactura,USA
+95,Rodriguez-Miller,Tecnología,España
+96,Anderson-Malone,Manufactura,Argentina
+97,Campbell Ltd,Salud,Argentina
+98,Collins Inc,Retail,Argentina
+99,Harmon Group,Retail,Argentina
+100,Mack Ltd,Tecnología,Argentina
+101,Sanders Ltd,Finanzas,Colombia
+102,Bennett and Sons,Tecnología,España
+103,Noble Ltd,Finanzas,Argentina
+104,"Campos, Guerrero and Martinez",Retail,España
+105,"Hill, Pope and Smith",Tecnología,Colombia
+106,Day-Evans,Salud,Colombia
+107,"Hinton, Jenkins and Lee",Manufactura,España
+108,"Lyons, Wilson and Shepherd",Finanzas,México
+109,Banks Ltd,Manufactura,USA
+110,"Long, Bradford and White",Manufactura,México
+111,"Bradley, Day and Smith",Tecnología,México
+112,"Larson, Lowe and Blanchard",Manufactura,México
+113,Holland-Benson,Salud,Argentina
+114,"Castro, Morgan and Barber",Manufactura,Colombia
+115,Jackson Group,Tecnología,México
+116,Moore Ltd,Salud,Colombia
+117,Schwartz and Sons,Retail,España
+118,Little Ltd,Manufactura,USA
+119,Douglas and Sons,Tecnología,España
+120,Brown Group,Retail,España
+121,Allen-Williams,Retail,Argentina
+122,Campos-Beard,Finanzas,USA
+123,Robbins-Arnold,Salud,España
+124,"Morrison, Cisneros and Hunt",Manufactura,España
+125,"Davis, Ballard and Johnson",Tecnología,USA
+126,Hayden Group,Finanzas,USA
+127,"Pace, Hahn and Anthony",Salud,España
+128,Ray-Brown,Finanzas,USA
+129,"Smith, Larsen and Nguyen",Salud,España
+130,"Harrison, Salazar and Mcclure",Salud,España
+131,Murray Ltd,Manufactura,Argentina
+132,Murphy-Martin,Salud,México
+133,"Franklin, Ford and Walter",Finanzas,España
+134,"Nichols, Davis and Phillips",Salud,Colombia
+135,"Watkins, Charles and Meyers",Manufactura,México
+136,Ross LLC,Manufactura,México
+137,Anderson-Allen,Finanzas,México
+138,"Simpson, Weaver and Baker",Retail,Argentina
+139,"Mcintyre, Brown and Moses",Retail,España
+140,"Blankenship, Simmons and Harvey",Salud,Argentina
+141,"Diaz, Johnson and Sanchez",Tecnología,España
+142,Harris PLC,Salud,Argentina
+143,Rocha LLC,Finanzas,Argentina
+144,"Wagner, Patel and Barnes",Finanzas,Colombia
+145,Jenkins LLC,Finanzas,Argentina
+146,Miller Group,Finanzas,USA
+147,Lewis PLC,Finanzas,Colombia
+148,Leonard Group,Manufactura,Argentina
+149,"Tanner, Foley and Hartman",Retail,México
+150,Bell-James,Finanzas,USA
+151,Roberts-Romero,Tecnología,USA
+152,Jones and Sons,Tecnología,USA
+153,Sanchez-Alvarez,Tecnología,Colombia
+154,Allen-Wilson,Tecnología,Argentina
+155,Harris-Castillo,Manufactura,Argentina
+156,Underwood-Jackson,Tecnología,México
+157,Jordan-Montgomery,Finanzas,México
+158,"Lee, Brown and Dickerson",Salud,USA
+159,"Owens, Woods and Huber",Tecnología,México
+160,Lewis PLC,Manufactura,Colombia
+161,Ward Inc,Manufactura,Argentina
+162,"Vance, Boyer and Gregory",Tecnología,USA
+163,Harris-Frazier,Salud,México
+164,Cole-Downs,Tecnología,Colombia
+165,Garcia and Sons,Manufactura,Colombia
+166,Perez-Foley,Retail,México
+167,"Cole, Powell and Wright",Finanzas,Argentina
+168,Contreras Group,Manufactura,México
+169,Petersen PLC,Tecnología,USA
+170,Simpson PLC,Finanzas,México
+171,Bailey Group,Tecnología,Colombia
+172,"Brennan, Morales and Perez",Tecnología,México
+173,Wilson-Holmes,Retail,Argentina
+174,Jennings-Barrett,Finanzas,España
+175,Clark-Lane,Finanzas,México
+176,"Dickson, Smith and Holland",Retail,Argentina
+177,"Leblanc, Stewart and Johnson",Manufactura,Argentina
+178,Conley-Joseph,Tecnología,Colombia
+179,Ramirez Ltd,Salud,Argentina
+180,"Villanueva, Martinez and Wilson",Tecnología,Argentina
+181,Cook Ltd,Tecnología,Argentina
+182,Ellison Ltd,Manufactura,Argentina
+183,"Smith, Smith and Mason",Tecnología,USA
+184,Lane-Lewis,Retail,USA
+185,George Ltd,Retail,Colombia
+186,"Peterson, Tucker and Webb",Finanzas,México
+187,Edwards Ltd,Salud,Argentina
+188,"Berry, Mendez and Davis",Tecnología,México
+189,"Johnson, Franco and Crane",Tecnología,México
+190,"Jackson, Mays and Stokes",Manufactura,Colombia
+191,"Gonzalez, Jimenez and Lynch",Retail,Argentina
+192,"Mueller, Jones and Norton",Salud,Argentina
+193,Park Inc,Finanzas,España
+194,Butler LLC,Retail,México
+195,Hansen-Sparks,Finanzas,México
+196,"Glover, Bond and Snow",Manufactura,USA
+197,Thompson-Burns,Manufactura,España
+198,Camacho-Anderson,Tecnología,USA
+199,Cox LLC,Salud,USA
+200,"Cunningham, White and Delacruz",Finanzas,USA
+201,Bailey Inc,Retail,Colombia
+202,Washington and Sons,Manufactura,Colombia
+203,White-Smith,Tecnología,USA
+204,"Johnson, Reynolds and Decker",Tecnología,España
+205,Martin-Richard,Finanzas,México
+206,Murphy-Peterson,Manufactura,España
+207,Frazier-Pierce,Salud,Argentina
+208,Burke-Heath,Manufactura,Colombia
+209,"Howell, Norris and Delgado",Finanzas,México
+210,Medina Ltd,Finanzas,México
+211,Mathews-Baker,Manufactura,Argentina
+212,Hicks PLC,Finanzas,Argentina
+213,Hill Inc,Manufactura,USA
+214,Short PLC,Retail,Colombia
+215,Rodriguez-Richards,Manufactura,Colombia
+216,Matthews and Sons,Manufactura,España
+217,"Mendoza, Randall and Ruiz",Finanzas,USA
+218,"Bruce, Lara and Hoffman",Finanzas,USA
+219,"Petersen, Vaughn and Thompson",Tecnología,USA
+220,Mora Ltd,Tecnología,USA
+221,Brown PLC,Retail,Colombia
+222,Lara Inc,Tecnología,Colombia
+223,"Clements, Herring and Conley",Manufactura,USA
+224,Schroeder LLC,Finanzas,España
+225,Clark-Fisher,Tecnología,México
+226,"Merritt, Foster and Duncan",Tecnología,México
+227,"Brown, Pruitt and Higgins",Retail,España
+228,Lopez-Morales,Retail,USA
+229,Lee Group,Manufactura,Colombia
+230,"Cooper, Brady and Leblanc",Finanzas,México
+231,"West, Barton and Hunt",Retail,Argentina
+232,Pope LLC,Tecnología,Argentina
+233,Watts-Diaz,Finanzas,España
+234,Cain Group,Finanzas,USA
+235,Franklin Inc,Tecnología,México
+236,Simon-Graves,Retail,USA
+237,Hall Group,Tecnología,México
+238,"Bennett, Schwartz and Fleming",Finanzas,España
+239,Lucero-Holt,Salud,España
+240,"Payne, Griffin and Sheppard",Salud,Argentina
+241,Chavez and Sons,Manufactura,USA
+242,Smith PLC,Tecnología,Argentina
+243,Brewer-Patterson,Tecnología,USA
+244,Marsh-Ochoa,Manufactura,Argentina
+245,Holland LLC,Manufactura,Colombia
+246,Henry Group,Manufactura,Colombia
+247,Olson Inc,Finanzas,Colombia
+248,"Smith, Solis and Moore",Tecnología,Colombia
+249,Jackson-Stewart,Finanzas,México
+250,"Cooper, Salazar and Braun",Manufactura,Colombia
+251,Moore-Booth,Tecnología,España
+252,Becker-Warren,Finanzas,España
+253,Miller and Sons,Finanzas,México
+254,"Stewart, Nichols and Vargas",Manufactura,Colombia
+255,Walker-Fitzgerald,Tecnología,Colombia
+256,Price PLC,Manufactura,Colombia
+257,Freeman-Perry,Tecnología,Argentina
+258,"Craig, Price and Kennedy",Salud,USA
+259,"Holmes, Campbell and Ayers",Retail,Argentina
+260,Lee-Johnson,Retail,USA
+261,Kirk-Acevedo,Retail,Colombia
+262,Freeman-Bailey,Manufactura,Colombia
+263,Knight-Stanton,Salud,Argentina
+264,Cox PLC,Tecnología,Argentina
+265,Smith-Fischer,Finanzas,USA
+266,Blair-Daniels,Tecnología,España
+267,Sellers LLC,Finanzas,USA
+268,"Payne, Rodriguez and Gordon",Tecnología,Argentina
+269,"Guerrero, Rodriguez and Savage",Salud,Argentina
+270,Davies-Frye,Finanzas,México
+271,"Mcbride, Taylor and White",Manufactura,Argentina
+272,Tucker-Bullock,Tecnología,México
+273,"Porter, Smith and Elliott",Tecnología,España
+274,Trevino Group,Finanzas,USA
+275,"Thomas, Ford and Mason",Manufactura,USA
+276,Brady-Strickland,Manufactura,México
+277,"Bailey, Barnes and Thomas",Salud,USA
+278,Gentry-Gonzales,Manufactura,Argentina
+279,"Johnson, Kane and Hess",Manufactura,Colombia
+280,Cooper-Snyder,Manufactura,México
+281,Hart LLC,Retail,USA
+282,Carter LLC,Salud,México
+283,Alvarez Inc,Tecnología,México
+284,"Campbell, Mason and Allen",Finanzas,Colombia
+285,"Lee, Lane and Johnson",Tecnología,Argentina
+286,Ballard and Sons,Salud,México
+287,"Harris, Benitez and Martinez",Finanzas,USA
+288,Sanders-Ramirez,Salud,España
+289,"Marsh, Palmer and Richard",Manufactura,México
+290,Krause-Douglas,Finanzas,México
+291,Miller Ltd,Manufactura,Colombia
+292,Fuller Inc,Tecnología,Argentina
+293,Mitchell-Douglas,Tecnología,España
+294,"Powers, Alvarez and Dunlap",Finanzas,USA
+295,Walker PLC,Finanzas,España
+296,Wilson-Gill,Salud,USA
+297,Neal-Anderson,Salud,Argentina
+298,Jimenez LLC,Manufactura,USA
+299,"Hill, Taylor and Gay",Finanzas,Colombia
+300,Carter Group,Tecnología,Colombia
+301,Morales LLC,Salud,Colombia
+302,Chen Ltd,Salud,Colombia
+303,Mullen-Allen,Tecnología,España
+304,"Finley, Roberts and Clark",Salud,Argentina
+305,"Brown, Hansen and Russell",Manufactura,USA
+306,Velasquez and Sons,Finanzas,USA
+307,Bradford-Tucker,Tecnología,Colombia
+308,Johnson-Brown,Finanzas,Colombia
+309,Jackson Inc,Salud,México
+310,Fernandez-Boyd,Salud,Argentina
+311,Murphy LLC,Tecnología,España
+312,Wells-Baird,Manufactura,USA
+313,Jones LLC,Retail,México
+314,Gilbert-Burton,Tecnología,México
+315,Hernandez PLC,Retail,USA
+316,Charles-Wallace,Retail,España
+317,"Hicks, Anderson and Fitzgerald",Manufactura,México
+318,Yates Ltd,Retail,México
+319,Miller LLC,Retail,Argentina
+320,Graham-Castillo,Manufactura,España
+321,Hartman-Moss,Retail,México
+322,Martin PLC,Retail,España
+323,"Leonard, Patterson and Wolf",Retail,USA
+324,Reese Ltd,Tecnología,Colombia
+325,Taylor PLC,Tecnología,México
+326,Leonard-Martin,Tecnología,Argentina
+327,Brown and Sons,Manufactura,USA
+328,Morrison-Clark,Salud,España
+329,Valdez Inc,Retail,USA
+330,"Miller, Colon and Noble",Retail,México
+331,"Shea, Cook and Robinson",Manufactura,España
+332,Mason-Taylor,Retail,Colombia
+333,"West, Nixon and Spears",Tecnología,USA
+334,Vazquez and Sons,Salud,México
+335,"Miller, Irwin and Ramsey",Finanzas,Argentina
+336,Dennis Ltd,Retail,España
+337,Yu and Sons,Tecnología,USA
+338,Vazquez Ltd,Finanzas,USA
+339,Wilcox Group,Salud,Colombia
+340,"Curry, Matthews and Taylor",Finanzas,Colombia
+341,"Phillips, Fox and Green",Tecnología,Argentina
+342,Miller-Gonzalez,Finanzas,Argentina
+343,"Kelly, Harris and Cohen",Manufactura,México
+344,"Lopez, Obrien and Moore",Finanzas,México
+345,"Johnson, Harris and Freeman",Retail,Argentina
+346,"Garcia, Lynch and Serrano",Retail,Argentina
+347,"Austin, Coleman and Hopkins",Manufactura,España
+348,Rios PLC,Tecnología,Colombia
+349,"Daniel, Hanson and Glass",Retail,México
+350,Rodriguez-Brewer,Salud,Colombia
+351,Davis and Sons,Retail,Colombia
+352,"Rhodes, Armstrong and Garcia",Retail,Argentina
+353,"Price, Hunter and Cisneros",Tecnología,España
+354,White Group,Finanzas,USA
+355,"Evans, Hughes and Curry",Retail,España
+356,Brown-Jackson,Manufactura,España
+357,"Gibbs, Lopez and Horn",Finanzas,Colombia
+358,Atkinson-Johnson,Salud,España
+359,Young-Olson,Tecnología,México
+360,"Phillips, Stark and Moreno",Salud,Colombia
+361,"Bartlett, Russell and Vaughan",Finanzas,México
+362,Gomez-Walton,Finanzas,USA
+363,Bailey Ltd,Finanzas,Colombia
+364,Donaldson and Sons,Salud,USA
+365,"Powell, Thompson and Harris",Finanzas,Colombia
+366,Barrett Ltd,Salud,Argentina
+367,Gregory PLC,Finanzas,España
+368,"Clark, Flores and Joyce",Manufactura,Argentina
+369,Ray Inc,Finanzas,USA
+370,Walsh PLC,Salud,España
+371,Oneill-Anderson,Retail,Colombia
+372,Green-Snyder,Finanzas,España
+373,"Newman, Jennings and Fowler",Retail,México
+374,Escobar LLC,Manufactura,España
+375,"Weber, Young and Evans",Tecnología,México
+376,Meyers and Sons,Manufactura,España
+377,Frazier Ltd,Finanzas,México
+378,"Cobb, Stevens and Alexander",Retail,USA
+379,"Clark, Hardin and Phillips",Retail,Argentina
+380,"Hurley, Foster and Glass",Salud,Colombia
+381,Castro-Le,Retail,España
+382,Washington-Sharp,Salud,Argentina
+383,"Sparks, Perez and Buchanan",Tecnología,Colombia
+384,Hicks Inc,Finanzas,Colombia
+385,Owens-Kline,Salud,México
+386,Gentry and Sons,Tecnología,USA
+387,Bautista Ltd,Retail,USA
+388,"Anderson, Allen and Reilly",Retail,Argentina
+389,"Lopez, Holloway and Calhoun",Tecnología,USA
+390,"Mills, Williams and Kelly",Retail,España
+391,Allen-Greene,Tecnología,USA
+392,Moore-Schwartz,Salud,Argentina
+393,Stephens-Newton,Salud,USA
+394,Bolton-Thomas,Tecnología,España
+395,Allen LLC,Salud,México
+396,Wilkins-Davis,Salud,Argentina
+397,"Woodward, Jimenez and Torres",Salud,México
+398,Graves-Ramirez,Manufactura,México
+399,Harrison-Nicholson,Finanzas,México
+400,Green-Cooper,Retail,Colombia
+401,Medina-Richardson,Manufactura,Colombia
+402,"Schroeder, Jenkins and Farrell",Salud,México
+403,Adams-Oconnor,Tecnología,Argentina
+404,Graham Group,Salud,España
+405,Frazier Inc,Finanzas,España
+406,Pratt-Chang,Salud,USA
+407,Graves-Crawford,Tecnología,Argentina
+408,Knight-Watts,Finanzas,Colombia
+409,Robertson Inc,Salud,México
+410,Randolph and Sons,Finanzas,USA
+411,White-Frye,Retail,España
+412,"Harrison, Diaz and White",Retail,Colombia
+413,Wilson-Gonzalez,Salud,Colombia
+414,Waller LLC,Finanzas,México
+415,Everett-Garcia,Tecnología,España
+416,"Graves, Weaver and Walter",Salud,Argentina
+417,Chambers-Smith,Retail,Colombia
+418,Baird Inc,Retail,México
+419,Bowers-White,Salud,Argentina
+420,Thompson PLC,Finanzas,España
+421,Brown Ltd,Retail,Colombia
+422,Allison and Sons,Finanzas,Argentina
+423,Blackwell-Dixon,Retail,Argentina
+424,Luna-Schultz,Retail,Argentina
+425,"Miller, Clements and Kelly",Manufactura,Colombia
+426,"Garner, Moyer and Deleon",Retail,Colombia
+427,Wolf-Watson,Tecnología,USA
+428,"Schneider, Warner and Li",Salud,España
+429,Pratt-Welch,Salud,México
+430,"Nunez, Garza and Nelson",Finanzas,Argentina
+431,"Jackson, Shelton and Fields",Retail,USA
+432,"Weber, Robertson and Kaufman",Tecnología,México
+433,Grant and Sons,Finanzas,USA
+434,Walton-Murillo,Manufactura,Colombia
+435,Hoffman-Calderon,Finanzas,Argentina
+436,Williams Group,Finanzas,México
+437,Chavez-Jones,Retail,México
+438,"Mckinney, Myers and Brown",Manufactura,México
+439,Kramer Inc,Finanzas,México
+440,Frye Group,Tecnología,México
+441,"Vega, Gray and Ramsey",Tecnología,USA
+442,Gallagher-Sanders,Salud,Argentina
+443,"Smith, George and Roberts",Manufactura,Colombia
+444,"Thompson, Harris and Gardner",Manufactura,Colombia
+445,Hammond Ltd,Salud,Colombia
+446,"Hamilton, Chambers and Higgins",Finanzas,Colombia
+447,Howard PLC,Manufactura,USA
+448,Mullins-Harper,Tecnología,España
+449,Smith Group,Tecnología,Argentina
+450,Morris-Sanders,Retail,México
+451,Ortiz-Lee,Manufactura,España
+452,Meyer LLC,Finanzas,Colombia
+453,Mckenzie-Johnson,Salud,España
+454,"Williamson, Cobb and Nichols",Salud,Argentina
+455,Williams Ltd,Finanzas,México
+456,Collins and Sons,Retail,México
+457,"Simmons, Schmidt and Smith",Salud,Argentina
+458,Arellano-Bates,Manufactura,Argentina
+459,Wilson-Norman,Retail,Colombia
+460,Silva-Wall,Manufactura,México
+461,Blackburn Inc,Tecnología,España
+462,Hughes-Robinson,Retail,USA
+463,Fritz Group,Salud,USA
+464,Clark Inc,Retail,Argentina
+465,Black-Combs,Retail,Colombia
+466,Bernard-Phillips,Retail,USA
+467,"Medina, Flores and Fry",Retail,México
+468,Leblanc-Salas,Manufactura,Argentina
+469,Salazar LLC,Tecnología,España
+470,Collins-Parker,Finanzas,Argentina
+471,Perez-Long,Retail,España
+472,Arellano-Ray,Salud,Argentina
+473,Bullock PLC,Retail,Argentina
+474,Porter-Turner,Salud,Argentina
+475,Gardner Ltd,Manufactura,España
+476,"Neal, Kelly and Miller",Salud,España
+477,"Faulkner, Ruiz and Murphy",Finanzas,Argentina
+478,Smith LLC,Tecnología,USA
+479,Davis and Sons,Salud,Colombia
+480,Frederick-Duncan,Salud,Colombia
+481,Russell Inc,Tecnología,Colombia
+482,Edwards-Johnston,Finanzas,España
+483,Alexander-Burns,Retail,España
+484,Nguyen LLC,Salud,USA
+485,Carrillo Group,Tecnología,Colombia
+486,"Jones, Sampson and Gonzales",Manufactura,Colombia
+487,Watson-Rivas,Tecnología,Argentina
+488,Cunningham Group,Manufactura,España
+489,Woods-Garza,Finanzas,Colombia
+490,Gonzalez Inc,Retail,USA
+491,Weaver-Salazar,Tecnología,USA
+492,Watkins-Johnson,Salud,Colombia
+493,Dyer-Neal,Finanzas,España
+494,Jackson-Cooper,Tecnología,USA
+495,Kelley and Sons,Salud,Argentina
+496,Rangel-Galvan,Tecnología,USA
+497,"Jones, Hall and Anderson",Manufactura,México
+498,Holland and Sons,Tecnología,México
+499,Nguyen-Petersen,Tecnología,España
+500,"Miller, Johnson and Ross",Tecnología,Colombia
