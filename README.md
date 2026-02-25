@@ -35,5 +35,5 @@ Se verifica la caida  de ventas donde cayo mas de 50% comparada con el mes anter
 <img width="366" height="222" alt="EJERCICIO5" src="https://github.com/user-attachments/assets/9c8a02d7-c52b-4899-aaeb-e42a61a880a0" />
 
 ## Herramientas
--PYTHON
--MICROSOFT SQL 
+- PYTHON
+- MICROSOFT SQL 
